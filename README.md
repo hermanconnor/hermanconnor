@@ -11,7 +11,8 @@ I’m driven by the intersection of healthcare, data, and software engineering, 
 
 ### **Languages and Tools**
 
-<img title="HTML5" alt="HTML5" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<div align="left">
+  <img title="HTML5" alt="HTML5" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img title="CSS3" alt="CSS3" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 <img title="JavaScript" alt="JavaScript" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img title="Bootstrap" alt="Bootstrap" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
@@ -30,13 +31,17 @@ I’m driven by the intersection of healthcare, data, and software engineering, 
 <img title="Jest" alt="Jest" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img title="Git" alt="Git" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img title="Linux" alt="Linux" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
 
 ### **Exploring**
 
-<img title="C++" alt="C++" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<div align="left">
+  <img title="C++" alt="C++" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <!-- <img title="Rust" alt="Rust" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> -->
 <!-- <img title="Go" alt="Go" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
 <!-- <img title="R" alt="R" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /> -->
+</div>
+
 
 ---
 
