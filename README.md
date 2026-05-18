@@ -59,7 +59,7 @@ I’m driven by the intersection of healthcare, data, and software engineering, 
     <td width="50%" valign="top">
       <h3>⚒️TechFix Pro</h3>
       <p>TechFix Pro is a full-stack application designed for a fictional small business to modernize their internal technical support workflow. Previously, the company relied on physical sticky notes to track hardware and software issues, leading to lost tickets and poor accountability.</p>
-      <p><strong>Stack:</strong> React · TypeScript · TailwindCSS/Shadcn · Node.js/Express · MongoDB</p>
+      <p><strong>Stack:</strong> React · TypeScript · Zustand · TanStack Query · TailwindCSS/Shadcn · Express.js · MongoDB</p>
       <a href="https://github.com/hermanconnor/technotes">View Repo →</a>
     </td>
     <td width="50%" valign="top">
