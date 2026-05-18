@@ -57,23 +57,23 @@ I’m driven by the intersection of healthcare, data, and software engineering, 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>TechFix Pro</h3>
+      <h3>⚒️TechFix Pro</h3>
       <p>TechFix Pro is a full-stack application designed for a fictional small business to modernize their internal technical support workflow. Previously, the company relied on physical sticky notes to track hardware and software issues, leading to lost tickets and poor accountability.</p>
       <p><strong>Stack:</strong> React · TypeScript · TailwindCSS/Shadcn · Node.js/Express · MongoDB</p>
       <a href="https://github.com/hermanconnor/technotes">View Repo →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Game Vaule</h3>
-      <p>A web tool that accepts HLA typing input and scores donor/recipient compatibility using immunological matching rules. Built with a React frontend, Node/Express API, and PostgreSQL for profile storage.</p>
+      <h3>🎮Game Vault</h3>
+      <p>GameVault is a modern, responsive video game discovery platform built with Next.js (App Router) and the RAWG API. It allows users to browse, search, and filter a massive catalog of games with fast performance, SEO-friendly rendering, and a polished UI.</p>
       <p><strong>Stack:</strong> Next.js · TanStack Query · TailwindCSS/Shadcn · TypeScript · RAWG API</p>
       <a href="https://github.com/hermanconnor/game-vault">View Repo →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Data Structures and Algorithms in TypeScript</h3>
+      <h3>🧮Data Structures and Algorithms in TypeScript</h3>
       <p>A Python-based ETL tool that ingests messy lab instrument output (HL7/CSV), cleans and normalizes it, and loads it into a structured database — with a lightweight dashboard for monitoring pipeline health.</p>
-      <p><strong>Stack:</strong> Python · Pandas · PostgreSQL · Docker</p>
+      <p><strong>Stack:</strong> TypeScript · Node.js</p>
       <a href="https://github.com/hermanconnor/dsa-typescript">View Repo →</a>
     </td>
     <!-- <td width="50%" valign="top">
