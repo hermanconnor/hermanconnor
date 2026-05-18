@@ -58,7 +58,7 @@ I’m driven by the intersection of healthcare, data, and software engineering, 
   <tr>
     <td width="50%" valign="top">
       <h3>TechFix Pro</h3>
-      <p>A full-stack web app that lets clinicians upload lab panel data (CSV) and explore results through interactive D3.js visualizations — including flagged abnormal values, reference range overlays, and longitudinal trend tracking.</p>
+      <p>TechFix Pro is a full-stack application designed for a fictional small business to modernize their internal technical support workflow. Previously, the company relied on physical sticky notes to track hardware and software issues, leading to lost tickets and poor accountability.</p>
       <p><strong>Stack:</strong> React · TypeScript · TailwindCSS/Shadcn · Node.js/Express · MongoDB</p>
       <a href="https://github.com/hermanconnor/technotes">View Repo →</a>
     </td>
