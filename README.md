@@ -72,7 +72,7 @@ I’m driven by the intersection of healthcare, data, and software engineering, 
   <tr>
     <td width="50%" valign="top">
       <h3>🧮Data Structures and Algorithms in TypeScript</h3>
-      <p>A Python-based ETL tool that ingests messy lab instrument output (HL7/CSV), cleans and normalizes it, and loads it into a structured database — with a lightweight dashboard for monitoring pipeline health.</p>
+      <p>This repository contains implementations of various data structures and algorithms I'm learning using TypeScript. </p>
       <p><strong>Stack:</strong> TypeScript · Node.js</p>
       <a href="https://github.com/hermanconnor/dsa-typescript">View Repo →</a>
     </td>
