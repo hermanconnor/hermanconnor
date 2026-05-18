@@ -43,14 +43,47 @@ I’m driven by the intersection of healthcare, data, and software engineering, 
 <!-- <img title="R" alt="R" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /> -->
 </div>
 
-
 ---
-
 
 ### What I'm building now
 
 > **ccwc** — Building a Rust-based clone of the Unix `wc` tool to efficiently count bytes, lines, words, and characters from files or standard input using composable CLI design principles.
 > _**Stack:** Rust · CLI · Unix Streams_
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>TechFix Pro</h3>
+      <p>A full-stack web app that lets clinicians upload lab panel data (CSV) and explore results through interactive D3.js visualizations — including flagged abnormal values, reference range overlays, and longitudinal trend tracking.</p>
+      <p><strong>Stack:</strong> React · TypeScript · TailwindCSS/Shadcn · Node.js/Express · MongoDB</p>
+      <a href="https://github.com/hermanconnor/technotes">View Repo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Game Vaule</h3>
+      <p>A web tool that accepts HLA typing input and scores donor/recipient compatibility using immunological matching rules. Built with a React frontend, Node/Express API, and PostgreSQL for profile storage.</p>
+      <p><strong>Stack:</strong> Next.js · TanStack Query · TailwindCSS/Shadcn · TypeScript · RAWG API</p>
+      <a href="https://github.com/hermanconnor/game-vault">View Repo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Data Structures and Algorithms in TypeScript</h3>
+      <p>A Python-based ETL tool that ingests messy lab instrument output (HL7/CSV), cleans and normalizes it, and loads it into a structured database — with a lightweight dashboard for monitoring pipeline health.</p>
+      <p><strong>Stack:</strong> Python · Pandas · PostgreSQL · Docker</p>
+      <a href="https://github.com/hermanconnor/dsa-typescript">View Repo →</a>
+    </td>
+    <!-- <td width="50%" valign="top">
+      <h3>📁 [Your Project Here]</h3>
+      <p>Add a short description of another project — a side project, open source contribution, or anything else you're proud of. Focus on the problem it solves.</p>
+      <p><strong>Stack:</strong> Your · Stack · Here</p>
+      <a href="https://github.com/hermanconnor/your-project">View Repo →</a>
+    </td> -->
+  </tr>
+</table>
 
 ---
 
