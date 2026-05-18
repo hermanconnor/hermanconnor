@@ -46,6 +46,14 @@ I’m driven by the intersection of healthcare, data, and software engineering, 
 
 ---
 
+
+### What I'm building now
+
+> **ccwc** — Building a Rust-based clone of the Unix `wc` tool to efficiently count bytes, lines, words, and characters from files or standard input using composable CLI design principles.
+> _**Stack:** Rust · CLI · Unix Streams_
+
+---
+
 ### **Currently Learning**
 
 - Machine Learning
