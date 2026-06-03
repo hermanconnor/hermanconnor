@@ -71,17 +71,17 @@ I’m driven by the intersection of healthcare, data, and software engineering, 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>📁 WarehouseFlow</h3>
+      <p>A Dockerized inventory and order management backend built with PostgreSQL and FastAPI.</p>
+      <p><strong>Stack:</strong> PostgreSQL · FastAPI · Docker</p>
+      <a href="https://github.com/hermanconnor/warehouseflow">View Repo →</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🧮Data Structures and Algorithms in TypeScript</h3>
       <p>This repository contains implementations of various data structures and algorithms I'm learning using TypeScript. </p>
       <p><strong>Stack:</strong> TypeScript · Node.js</p>
       <a href="https://github.com/hermanconnor/dsa-typescript">View Repo →</a>
-    </td>
-    <!-- <td width="50%" valign="top">
-      <h3>📁 [Your Project Here]</h3>
-      <p>Add a short description of another project — a side project, open source contribution, or anything else you're proud of. Focus on the problem it solves.</p>
-      <p><strong>Stack:</strong> Your · Stack · Here</p>
-      <a href="https://github.com/hermanconnor/your-project">View Repo →</a>
-    </td> -->
+    </td> 
   </tr>
 </table>
 
